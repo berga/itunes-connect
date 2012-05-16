@@ -5,3 +5,5 @@ rdoc
 pkg
 /appstore.gemspec
 itunes-connect.gemspec
+/nbproject/private/
+/nbproject/

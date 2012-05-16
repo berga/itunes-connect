@@ -16,7 +16,7 @@ begin
     gem.add_dependency "clip", ">=1.0.1"
     gem.add_dependency "sqlite3-ruby", "~>1.2"
 
-    gem.add_development_dependency "rspec"
+    gem.add_development_dependency "rspec", "~>1.1"
     gem.add_development_dependency "fakeweb"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
